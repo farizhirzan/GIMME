@@ -1,0 +1,1 @@
+This is ESP32 code for GIMME by Fariz Hirzan. GIMME is a pair of wrist controller for shadow boxing training to increase our physical activity. With this code you can turn MPU6050 sensor to track your punch as an interactive way to exercise.
